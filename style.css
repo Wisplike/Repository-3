@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&family=Raleway:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.main-div {
+  margin: auto;
+  max-width: 700px;
+}
+
+h1 {
+  font-family: "playfair display", serif;
+  font-size: 3em;
+  color: #333333;
+}
+
+p,
+ul {
+  font: 18px/26px raleway, sans;
+  font: #333333;
+}
+
+.intro-p {
+  color: gray;
+  font-size: 16px;
+}
