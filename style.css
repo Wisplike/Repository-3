@@ -26,3 +26,7 @@ ul {
   color: gray;
   font-size: 16px;
 }
+
+img {
+  max-width: 700px;
+}
